@@ -72,6 +72,7 @@
     "preversion": "npm run build"
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-alignment": "^23.1.0"
+    "@ckeditor/ckeditor5-alignment": "^23.1.0",
+    "@ckeditor/ckeditor5-word-count": "^23.1.0"
   }
 }
